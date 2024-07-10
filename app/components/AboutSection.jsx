@@ -10,17 +10,17 @@ const TAB_DATA = [
     content: (
       <div className="grid grid-cols-2 gap-4">
         <ul className="list-disc pl-2">
-          <li>MySQL</li>
+          <li>SQL</li>
           <li>Python</li>
-          <li>Next.js</li>
-          <li>Htmx(Learning)</li>
+          <li>Docker</li>
+          <li>Kubernetes</li>
           <li>Bash</li>
         </ul>
         <ul className="list-disc pl-2">
-          <li>VMware</li>
-          <li>Docker</li>
-          <li>C++</li>
-          <li>Optical Fiber</li>
+          <li>VMware/HyperV/Harvester</li>
+          <li>Cybersecurity</li>
+          <li>BI Tools (Grafana and PowerBI)</li>
+          <li>Network Infrastructure Skills</li>
           {/* Add additional skills here */}
         </ul>
       </div>
