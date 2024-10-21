@@ -43,7 +43,7 @@ export const HeroSection = () => {
             <div className="flex flex-col lg:flex-row lg:gap-4">
         <button
           className='bg-gradient-to-br from-blue-800 via-blue-500 to-blue-300 hover:bg-slate-200 text-white px-6 py-3 rounded-full mb-4 lg:mb-0 lg:mr-4'
-          onClick={() => window.open('https://www.linkedin.com/in/guerino-geminiani', '_blank')}
+          onClick={() => window.location.href = 'mailto:guerinogeminiani@gmail.com'}
         >
           Get in contact
         </button>
