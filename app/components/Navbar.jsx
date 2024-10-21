@@ -21,10 +21,11 @@ const navLinks = [
     path: "https://github.com/GuerinoGeminiani", // Redirect to the GitHub link
     external: true
   },
-  /*{
-    title: "Contact",
-    path: "#contact",
-  },*/
+  {
+    title: "Projects",
+    path: "https://www.linkedin.com/in/guerino-geminiani", // Redirect to the Linkedin
+    external: true
+  },
 ];
 
 const Navbar = () => {
