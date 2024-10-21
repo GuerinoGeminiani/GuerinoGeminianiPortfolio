@@ -22,7 +22,7 @@ const navLinks = [
     external: true
   },
   {
-    title: "Projects",
+    title: "LinkedIn",
     path: "https://www.linkedin.com/in/guerino-geminiani", // Redirect to the Linkedin
     external: true
   },
